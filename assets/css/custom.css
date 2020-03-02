@@ -1,0 +1,29 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+.filter tr{
+	
+}
+.filter tr td{
+	padding:5px;
+}
+
+body {
+	
+}
+
+button,input,select,textarea {
+	margin:0;
+	font-size:100%;
+	vertical-align:middle; 
+  	padding: 5px 5px;
+}
+button,input,select,textarea {
+	*overflow:visible;
+	line-height:normal;
+	color:blue;	
+}
+ 
